@@ -1,8 +1,8 @@
 # I'm Luminus👋
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table width="100%" style="border:none; border-collapse:collapse;">
 <tr>
-<td width="60%">
+<td width="70%" style="border:none; padding-right:20px;">
 Sysadmin & Devops Hobbyist
 
 <br>
@@ -11,7 +11,7 @@ Lives for ricing. Fluent in yaml🍚
 WSL as daily drive🌤️
 
 </td>
-<td width="20%">
+<td width="20%" style="border:none;">
 
 <img src="assets/tux.gif" width="100%">
 
