@@ -3,8 +3,12 @@
 <td width="60%">
 
 # I'm Luminus👋
+
 Sysadmin & Devops Hobbyist
+
+<br>
 Lives for ricing🍚
+
 WSL as daily drive🌤️
 
 </td>
