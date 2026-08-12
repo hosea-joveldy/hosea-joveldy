@@ -1,25 +1,21 @@
 # I'm Luminus👋
 
-<table width="100%" style="border:none; border-collapse:collapse;">
-<tr>
-<td width="70%" style="border:none; padding-right:20px;">
+<img src="assets/tux.gif" align="right" width="25%">
+
 Sysadmin & Devops Hobbyist
 
 <br>
+
 Lives for ricing. Fluent in yaml🍚
 
 WSL as daily drive🌤️
 
-</td>
-<td width="20%" style="border:none;">
-
-<img src="assets/tux.gif" width="100%">
-
-</td>
-</tr>
-</table>
-
 <br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hosea-joveldy&color=blue&style=flat-square)
+
+
+<br clear="right">
 
 <div align="center">
 
