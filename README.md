@@ -12,6 +12,10 @@ WSL as daily drive🌤️
 
 <br>
 
+Currently poking at dual boot and nvim🙌
+
+<br>
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=hosea-joveldy&color=blue&style=flat-square)
 
 
